@@ -1,4 +1,4 @@
-### Hi there 👋
+Boris Gdalevich portfolio home page 👋
 
 <!--
 **borisgdalevich/borisgdalevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
